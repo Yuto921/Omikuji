@@ -1,0 +1,2 @@
+# Omikuji
+JavaScriptでおみくじを作ってみました。
